@@ -18,6 +18,15 @@
 <body>
 <div class="main">
   <div class="header">
+ <?php session_start(); 
+ include "../dbfiles/config.php";
+ // include "../dbfiles/config.php";
+ $query="SELECT * FROM users_hrdb WHERE username='admin' and password='admin'";
+ $result=mysql_query($query) or die(mysql_error());
+       // $_SESSION['error'] = $result;
+
+        $count=mysql_num_rows($result);
+   ?>
     <div class="header_resize">
       <div class="logo">
         <h1><a href="../index.php">Payroll Managament System<small>A Sidhu const. ERP System </small></a></h1>
@@ -39,7 +48,9 @@
         <br />
 
        <p style="font-size:18px;" align="center">
-            Sorry You are not authorised. OR Your Session was expired<br/><br/>
+            Sorry You are not authorised. OR Your Session was expired<br/>
+          <?php echo $count."   ".$_SESSION['user']; ?>
+            <br/>
             <a href="../index.php">Get Back to Login</a>
         </p>
           <br/>

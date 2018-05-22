@@ -34,7 +34,7 @@ class checklogin{
 
         $this->password= $p;
 
-        $query="SELECT * FROM users WHERE username='$this->username' and password='$this->password'";
+        $query="SELECT * FROM users_hrdb WHERE username='$u' and password='$p'";
 
 	if(!$query){
 
@@ -44,13 +44,14 @@ class checklogin{
 
 	// above query will fetch records with the entered username and password
 
-        $result=mysql_query($query);
+        $result=mysql_query($query) or die(mysql_error());
+        $_SESSION['user'] = $username;
 
         $count=mysql_num_rows($result);
 
 //        echo $count;
 
-        if($count==1)
+        if($count > 0)
 
         {
 

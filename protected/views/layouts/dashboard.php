@@ -199,7 +199,7 @@
                                     <li class="nav-item  "><a href="<?php echo Yii::app()->request->baseUrl; ?>/index.php/core/designation/create" class="nav-link "><span class="title"> Segment</span></a></li>
                                     <li class="nav-item  "><a href="<?php echo Yii::app()->request->baseUrl; ?>/index.php/core/jobtitle/create" class="nav-link "><span class="title"> Job Title</span></a></li>
                                     <li class="nav-item  "><a href="<?php echo Yii::app()->request->baseUrl; ?>/index.php/core/workshift/create" class="nav-link "><span class="title"> Work Shift</span></a></li>
-                                    <li class="nav-item  "><a href="../../../export.php" class="nav-link "><span class="title"> Mail</span></a></li>
+                                    <li class="nav-item  "><a href="../../mail.php" class="nav-link "><span class="title"> Mail</span></a></li>
                                     <li class="nav-item  "><a href="<?php echo Yii::app()->request->baseUrl; ?>/index.php/core/employementstatus/create" class="nav-link "><span class="title"> Employment Status</span></a></li>
                                 
                             </li>
