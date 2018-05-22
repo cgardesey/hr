@@ -1,0 +1,503 @@
+[02-Jul-2015 02:34:19 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 02:34:19 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 02:47:29 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 02:47:29 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 02:53:14 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 02:53:14 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 03:37:04 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 03:37:04 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 03:50:57 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool../yii/framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 11
+[02-Jul-2015 03:50:57 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool../yii/framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 11
+[02-Jul-2015 03:51:02 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool../yii/framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 11
+[02-Jul-2015 03:51:02 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool../yii/framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 11
+[02-Jul-2015 03:51:28 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool../yii/framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 11
+[02-Jul-2015 03:51:28 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool../yii/framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 11
+[02-Jul-2015 03:59:02 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/webschool/../yii/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 03:59:02 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/webschool/../yii/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/webschool/index.php on line 12
+[02-Jul-2015 04:21:35 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:35 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:35 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:35 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:40 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:40 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:44 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 04:21:44 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/index.php on line 12
+[02-Jul-2015 06:51:49 America/Denver] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1489
+[02-Jul-2015 21:58:02 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/CourseController.php on line 162
+[02-Jul-2015 22:07:03 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/CourseController.php on line 162
+[02-Jul-2015 22:07:21 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/CourseController.php on line 162
+[02-Jul-2015 23:35:29 America/Denver] PHP Fatal error:  Class 'Batch' not found in /home/webscho3/public_html/protected/modules/core/controllers/BatchController.php on line 80
+[02-Jul-2015 23:41:20 America/Denver] PHP Fatal error:  Class 'Batch' not found in /home/webscho3/public_html/protected/modules/core/controllers/ClassteacherallocationController.php on line 115
+[02-Jul-2015 23:41:20 America/Denver] PHP Fatal error:  Class 'Batch' not found in /home/webscho3/public_html/framework/db/ar/CActiveRecord.php on line 395
+[03-Jul-2015 02:13:18 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 467
+[03-Jul-2015 02:13:29 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 467
+[06-Jul-2015 03:14:51 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/webscho3/public_html/protected/modules/core/controllers/FeesallocationController.php on line 311
+[06-Jul-2015 15:21:14 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/FeessubcategoryController.php on line 242
+[06-Jul-2015 22:21:58 America/Denver] PHP Fatal error:  Call to a member function save() on a non-object in /home/webscho3/public_html/protected/modules/payroll/controllers/EmployeesalaryController.php on line 296
+[06-Jul-2015 22:39:15 America/Denver] PHP Fatal error:  Call to a member function save() on a non-object in /home/webscho3/public_html/protected/modules/payroll/controllers/EmployeesalaryController.php on line 296
+[06-Jul-2015 23:17:55 America/Denver] PHP Fatal error:  Call to undefined function issset() in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 484
+[06-Jul-2015 23:18:21 America/Denver] PHP Fatal error:  Call to undefined function issset() in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 484
+[06-Jul-2015 23:18:24 America/Denver] PHP Fatal error:  Call to undefined function issset() in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 484
+[06-Jul-2015 23:19:05 America/Denver] PHP Fatal error:  Call to undefined function issset() in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 484
+[06-Jul-2015 23:19:57 America/Denver] PHP Fatal error:  Call to undefined function issset() in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 484
+[07-Jul-2015 13:47:41 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:47:51 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:47:58 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:49:09 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:49:10 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:49:34 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:49:37 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[07-Jul-2015 13:50:54 America/Denver] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ')' in /home/webscho3/public_html/protected/controllers/SiteController.php on line 25
+[08-Jul-2015 03:46:26 America/Denver] PHP Parse error:  syntax error, unexpected '' <table class="table responsi' (T_ENCAPSED_AND_WHITESPACE) in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 1016
+[09-Jul-2015 03:05:09 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/certifications/views/generatecertificate/view.php on line 182
+[09-Jul-2015 03:05:18 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/certifications/views/generatecertificate/view.php on line 182
+[09-Jul-2015 03:05:34 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/certifications/views/generatecertificate/view.php on line 182
+[10-Jul-2015 00:09:30 America/Denver] PHP Parse error:  syntax error, unexpected ''Row number :' (T_ENCAPSED_AND_WHITESPACE) in /home/webscho3/public_html/protected/controllers/SiteController.php on line 359
+[10-Jul-2015 00:14:15 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 334
+[10-Jul-2015 00:14:15 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 334
+[10-Jul-2015 00:14:15 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 334
+[10-Jul-2015 23:05:59 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 329
+[13-Jul-2015 04:13:18 America/Denver] PHP Fatal error:  Call to a member function save() on a non-object in /home/webscho3/public_html/protected/modules/payroll/controllers/EmployeesalaryController.php on line 299
+[13-Jul-2015 23:59:52 America/Denver] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/webscho3/public_html/protected/controllers/SiteController.php on line 350
+[17-Jul-2015 23:42:47 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 745
+[17-Jul-2015 23:42:53 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 745
+[17-Jul-2015 23:42:55 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 745
+[17-Jul-2015 23:42:57 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 745
+[18-Jul-2015 05:02:52 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:07:47 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:07:58 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:08:02 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:08:37 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:11:41 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:13:06 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:13:32 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:13:41 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:13:51 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:19:00 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:19:04 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:19:54 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:20:17 America/Denver] PHP Fatal error:  Class 'Privilege' not found in /home/webscho3/public_html/protected/views/layouts/main.php on line 209
+[18-Jul-2015 05:34:20 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 330
+[19-Jul-2015 23:55:44 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/main.php on line 806
+[20-Jul-2015 00:05:00 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 329
+[20-Jul-2015 02:06:59 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1110
+[20-Jul-2015 02:07:03 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1110
+[20-Jul-2015 02:07:10 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1110
+[20-Jul-2015 02:07:15 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1110
+[20-Jul-2015 02:07:19 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1110
+[20-Jul-2015 02:07:47 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1110
+[22-Jul-2015 04:43:00 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/webscho3/public_html/protected/modules/core/controllers/TimetableController.php on line 350
+[22-Jul-2015 05:29:55 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 325
+[24-Jul-2015 02:10:59 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 330
+[29-Jul-2015 19:28:46 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 544
+[30-Jul-2015 05:16:14 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 305
+[31-Jul-2015 02:36:48 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/dashboard.php on line 1068
+[31-Jul-2015 03:12:28 America/Denver] PHP Fatal error:  Call to a member function setTimezone() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Setexam.php on line 208
+[31-Jul-2015 03:16:11 America/Denver] PHP Fatal error:  Call to a member function setTimezone() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Setexam.php on line 208
+[31-Jul-2015 03:30:28 America/Denver] PHP Parse error:  syntax error, unexpected ''ccec' (T_ENCAPSED_AND_WHITESPACE) in /home/webscho3/public_html/protected/views/layouts/dashboard.php on line 1943
+[31-Jul-2015 03:37:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/dashboard.php on line 3735
+[31-Jul-2015 03:37:52 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/dashboard.php on line 3735
+[31-Jul-2015 03:49:49 America/Denver] PHP Fatal error:  Class 'Setexam' not found in /home/webscho3/public_html/protected/modules/core/controllers/SetexamController.php on line 91
+[31-Jul-2015 23:53:32 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[31-Jul-2015 23:53:55 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[31-Jul-2015 23:55:05 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[31-Jul-2015 23:56:04 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[31-Jul-2015 23:57:41 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[31-Jul-2015 23:57:47 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[31-Jul-2015 23:57:50 America/Denver] PHP Fatal error:  Call to a member function format() on a non-object in /home/webscho3/public_html/protected/modules/core/models/Employeemaster.php on line 196
+[01-Aug-2015 00:04:51 America/Denver] PHP Fatal error:  Class 'Employeemaster' not found in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 91
+[01-Aug-2015 00:18:19 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 342
+[02-Aug-2015 23:48:47 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 342
+[03-Aug-2015 04:33:31 America/Denver] PHP Fatal error:  Class 'Payheadmaster' not found in /home/webscho3/public_html/protected/modules/payroll/controllers/PayheadmasterController.php on line 90
+[03-Aug-2015 04:39:31 America/Denver] PHP Fatal error:  Class 'Email' not found in /home/webscho3/public_html/protected/controllers/SiteController.php on line 68
+[03-Aug-2015 22:47:14 America/Denver] PHP Fatal error:  Class 'Term' not found in /home/webscho3/public_html/protected/modules/core/controllers/TermController.php on line 91
+[06-Aug-2015 03:47:07 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 332
+[06-Aug-2015 05:19:01 America/Denver] PHP Fatal error:  Call to undefined function redirect() in /home/webscho3/public_html/protected/modules/core/controllers/TimetableController.php on line 163
+[06-Aug-2015 23:48:30 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 360
+[06-Aug-2015 23:48:33 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 360
+[06-Aug-2015 23:48:44 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 731
+[06-Aug-2015 23:48:46 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 731
+[06-Aug-2015 23:48:48 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 731
+[07-Aug-2015 00:44:34 America/Denver] PHP Fatal error:  Call to undefined function prin_r() in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 108
+[07-Aug-2015 04:54:48 America/Denver] PHP Fatal error:  Class 'Batch' not found in /home/webscho3/public_html/protected/modules/core/controllers/BatchController.php on line 89
+[08-Aug-2015 00:02:06 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/InstitutionController.php on line 226
+[08-Aug-2015 00:02:12 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/InstitutionController.php on line 226
+[08-Aug-2015 00:08:09 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 576
+[08-Aug-2015 00:08:15 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 576
+[08-Aug-2015 00:08:20 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 576
+[08-Aug-2015 00:08:29 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 576
+[08-Aug-2015 00:11:51 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 579
+[08-Aug-2015 00:11:56 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 579
+[08-Aug-2015 00:12:04 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 576
+[08-Aug-2015 00:13:00 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 342
+[08-Aug-2015 00:13:26 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 342
+[11-Aug-2015 04:04:44 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/cce/views/ccemarklist/reportcardpdf.php on line 408
+[11-Aug-2015 04:04:47 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/cce/views/ccemarklist/reportcardpdf.php on line 408
+[11-Aug-2015 04:04:53 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/cce/views/ccemarklist/reportcardpdf.php on line 408
+[13-Aug-2015 05:25:23 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 629
+[14-Aug-2015 05:52:46 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 353
+[17-Aug-2015 05:13:13 America/Denver] PHP Fatal error:  Call to a member function save() on a non-object in /home/webscho3/public_html/protected/modules/payroll/controllers/EmployeesalaryController.php on line 568
+[17-Aug-2015 05:15:54 America/Denver] PHP Fatal error:  Call to a member function save() on a non-object in /home/webscho3/public_html/protected/modules/payroll/controllers/EmployeesalaryController.php on line 568
+[17-Aug-2015 05:18:27 America/Denver] PHP Fatal error:  Call to a member function save() on a non-object in /home/webscho3/public_html/protected/modules/payroll/controllers/EmployeesalaryController.php on line 568
+[20-Aug-2015 22:30:08 America/Denver] PHP Fatal error:  Cannot redeclare class SetmarklistController in /home/webscho3/public_html/protected/modules/core/views/setmarklist/broadsheetpdf.php on line 1126
+[21-Aug-2015 03:16:22 America/Denver] PHP Fatal error:  Class 'Leaveapplication' not found in /home/webscho3/public_html/protected/modules/leave/controllers/LeaveapplicationController.php on line 142
+[21-Aug-2015 22:12:27 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/webscho3/public_html/protected/modules/leave/models/Leaveapplication.php on line 210
+[21-Aug-2015 22:13:09 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/webscho3/public_html/protected/modules/leave/models/Leaveapplication.php on line 210
+[21-Aug-2015 22:13:16 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/webscho3/public_html/protected/modules/leave/models/Leaveapplication.php on line 210
+[21-Aug-2015 22:13:19 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/webscho3/public_html/protected/modules/leave/models/Leaveapplication.php on line 210
+[21-Aug-2015 22:13:59 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/webscho3/public_html/protected/modules/leave/models/Leaveapplication.php on line 210
+[21-Aug-2015 22:14:05 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/webscho3/public_html/protected/modules/leave/models/Leaveapplication.php on line 210
+[21-Aug-2015 22:16:14 America/Denver] PHP Fatal error:  Class 'Leaveapplication' not found in /home/webscho3/public_html/protected/modules/leave/controllers/LeaveapplicationController.php on line 142
+[21-Aug-2015 22:17:26 America/Denver] PHP Fatal error:  Class 'Leaveapplication' not found in /home/webscho3/public_html/protected/modules/leave/controllers/LeaveapplicationController.php on line 142
+[21-Aug-2015 22:38:26 America/Denver] PHP Fatal error:  Class 'Leaveapplication' not found in /home/webscho3/public_html/protected/modules/leave/controllers/LeaveapplicationController.php on line 142
+[22-Aug-2015 04:18:29 America/Denver] PHP Fatal error:  Call to a member function search() on a non-object in /home/webscho3/public_html/protected/modules/leave/views/leaveapplication/approve.php on line 145
+[22-Aug-2015 04:18:36 America/Denver] PHP Fatal error:  Call to a member function search() on a non-object in /home/webscho3/public_html/protected/modules/leave/views/leaveapplication/approve.php on line 145
+[22-Aug-2015 04:19:44 America/Denver] PHP Fatal error:  Call to a member function search() on a non-object in /home/webscho3/public_html/protected/modules/leave/views/leaveapplication/approve.php on line 145
+[22-Aug-2015 23:29:25 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 579
+[23-Aug-2015 22:30:32 America/Denver] PHP Fatal error:  Class 'Leaveapplication' not found in /home/webscho3/public_html/protected/modules/leave/views/leaveapplication/approve.php on line 42
+[24-Aug-2015 03:50:40 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 672
+[24-Aug-2015 03:52:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 672
+[24-Aug-2015 03:59:48 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 672
+[24-Aug-2015 04:01:25 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 672
+[24-Aug-2015 04:11:20 America/Denver] PHP Parse error:  syntax error, unexpected ''sub' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 353
+[24-Aug-2015 04:31:45 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 1017
+[24-Aug-2015 04:31:46 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 1017
+[24-Aug-2015 04:31:47 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 1309
+[24-Aug-2015 04:31:47 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 1309
+[24-Aug-2015 06:04:51 America/Denver] PHP Parse error:  syntax error, unexpected ''sub' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 353
+[24-Aug-2015 06:04:53 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/webscho3/public_html/protected/modules/core/controllers/SetmarklistController.php on line 1017
+[24-Aug-2015 22:13:18 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/views/setmarklist/reportcardpdf.php on line 616
+[25-Aug-2015 01:05:36 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:06:37 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:06:43 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:06:45 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:07:57 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:08:02 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:10:10 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:10:12 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:12:01 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 1985
+[25-Aug-2015 01:32:51 America/Denver] PHP Fatal error:  Class 'Smssettings' not found in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 166
+[25-Aug-2015 03:49:00 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 579
+[25-Aug-2015 05:05:53 America/Denver] PHP Fatal error:  Call to a member function getValidators() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2435
+[25-Aug-2015 05:07:29 America/Denver] PHP Fatal error:  Call to a member function getValidators() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2435
+[25-Aug-2015 05:43:25 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 105
+[25-Aug-2015 05:43:45 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 105
+[25-Aug-2015 05:46:17 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 153
+[25-Aug-2015 05:46:27 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 153
+[25-Aug-2015 05:51:27 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 153
+[25-Aug-2015 05:53:27 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[25-Aug-2015 05:54:26 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 03:28:08 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:09:22 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:09:35 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:12:06 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:12:26 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:14:08 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:39:15 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:39:48 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:42:53 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:43:12 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:55:53 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:56:30 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 04:59:48 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[26-Aug-2015 05:00:50 America/Denver] PHP Fatal error:  Call to undefined function alert() in /home/webscho3/public_html/protected/modules/sms/controllers/SmssettingsController.php on line 154
+[31-Aug-2015 04:03:52 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 336
+[04-Sep-2015 08:23:39 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/InstitutionController.php on line 232
+[07-Sep-2015 03:46:22 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/main.php on line 163
+[07-Sep-2015 03:46:26 America/Denver] PHP Parse error:  syntax error, unexpected ''studenthallli' (T_ENCAPSED_AND_WHITESPACE) in /home/webscho3/public_html/protected/views/layouts/main.php on line 2003
+[08-Sep-2015 06:03:57 America/Denver] PHP Parse error:  syntax error, unexpected 'criteria' (T_STRING) in /home/webscho3/public_html/protected/modules/core/models/Student.php on line 337
+[08-Sep-2015 06:04:02 America/Denver] PHP Parse error:  syntax error, unexpected 'criteria' (T_STRING) in /home/webscho3/public_html/protected/modules/core/models/Student.php on line 337
+[08-Sep-2015 06:05:03 America/Denver] PHP Parse error:  syntax error, unexpected 'criteria' (T_STRING) in /home/webscho3/public_html/protected/modules/core/models/Student.php on line 337
+[08-Sep-2015 22:47:55 America/Denver] PHP Fatal error:  Class 'Batch' not found in /home/webscho3/public_html/protected/modules/core/controllers/BatchController.php on line 89
+[09-Sep-2015 06:38:00 America/Denver] PHP Parse error:  syntax error, unexpected 'Institution' (T_STRING) in /home/webscho3/public_html/protected/modules/core/controllers/InstitutionController.php on line 97
+[09-Sep-2015 06:38:02 America/Denver] PHP Parse error:  syntax error, unexpected 'Institution' (T_STRING) in /home/webscho3/public_html/protected/modules/core/controllers/InstitutionController.php on line 97
+[09-Sep-2015 06:38:05 America/Denver] PHP Parse error:  syntax error, unexpected 'Institution' (T_STRING) in /home/webscho3/public_html/protected/modules/core/controllers/InstitutionController.php on line 97
+[10-Sep-2015 02:21:47 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[10-Sep-2015 02:21:57 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[10-Sep-2015 02:21:58 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[10-Sep-2015 02:22:02 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[10-Sep-2015 02:22:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[10-Sep-2015 02:22:06 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[10-Sep-2015 02:22:10 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/cce/controllers/CcemarklistController.php on line 1365
+[15-Sep-2015 09:56:24 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 588
+[15-Sep-2015 22:39:12 America/Denver] PHP Parse error:  syntax error, unexpected '$course1' (T_VARIABLE) in /home/webscho3/public_html/protected/modules/core/views/assignment/_form.php on line 126
+[15-Sep-2015 22:39:15 America/Denver] PHP Parse error:  syntax error, unexpected '$course1' (T_VARIABLE) in /home/webscho3/public_html/protected/modules/core/views/assignment/_form.php on line 126
+[15-Sep-2015 22:39:57 America/Denver] PHP Parse error:  syntax error, unexpected '$course1' (T_VARIABLE) in /home/webscho3/public_html/protected/modules/core/views/assignment/_form.php on line 126
+[15-Sep-2015 22:40:01 America/Denver] PHP Parse error:  syntax error, unexpected '$course1' (T_VARIABLE) in /home/webscho3/public_html/protected/modules/core/views/assignment/_form.php on line 126
+[16-Sep-2015 00:10:33 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/views/studentabsent/_form.php on line 251
+[16-Sep-2015 01:19:58 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/webscho3/public_html/protected/modules/core/controllers/StudentabsentController.php on line 328
+[16-Sep-2015 01:20:00 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/webscho3/public_html/protected/modules/core/controllers/StudentabsentController.php on line 328
+[16-Sep-2015 01:20:32 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/webscho3/public_html/protected/modules/core/controllers/StudentabsentController.php on line 328
+[17-Sep-2015 00:39:48 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2452
+[17-Sep-2015 00:40:05 America/Denver] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2452
+[18-Sep-2015 00:23:47 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:23:51 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:23:59 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:24:05 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:24:06 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:24:08 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:24:23 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[18-Sep-2015 00:24:31 America/Denver] PHP Fatal error:  Cannot redeclare SubjectController::actionFetchsubject() in /home/webscho3/public_html/protected/modules/core/controllers/SubjectController.php on line 309
+[19-Sep-2015 01:03:41 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 603
+[19-Sep-2015 01:09:35 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 327
+[19-Sep-2015 01:59:54 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/controllers/SiteController.php on line 327
+[21-Sep-2015 07:50:28 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 343
+[21-Sep-2015 07:50:34 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 341
+[22-Sep-2015 00:44:23 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/dashboard.php on line 3605
+[22-Sep-2015 00:46:49 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 343
+[22-Sep-2015 09:24:13 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 343
+[23-Sep-2015 06:30:11 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/views/feesallocation/admin.php on line 352
+[23-Sep-2015 06:30:15 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/views/feesallocation/admin.php on line 352
+[24-Sep-2015 03:56:45 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/views/layouts/main.php on line 2302
+[25-Sep-2015 03:56:50 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/_form.php on line 121
+[25-Sep-2015 03:58:14 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/_form.php on line 121
+[25-Sep-2015 03:58:19 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/_form.php on line 121
+[25-Sep-2015 03:58:33 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/_form.php on line 121
+[25-Sep-2015 03:58:41 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/_form.php on line 121
+[25-Sep-2015 03:59:58 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/_form.php on line 121
+[25-Sep-2015 21:42:50 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 341
+[28-Sep-2015 07:52:01 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 341
+[28-Sep-2015 07:52:31 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 341
+[30-Sep-2015 01:46:50 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 615
+[30-Sep-2015 03:59:30 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 615
+[30-Sep-2015 06:07:06 America/Denver] PHP Fatal error:  Class 'Email' not found in /home/webscho3/public_html/protected/controllers/SiteController.php on line 180
+[30-Sep-2015 06:07:06 America/Denver] PHP Fatal error:  Class 'Email' not found in /home/webscho3/public_html/protected/controllers/SiteController.php on line 180
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:56 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:56 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 02:53:56 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:07 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:09 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:09 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:09 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:09 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:15 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:16 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:16 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:17 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:19 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:19 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:19 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:20 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:20 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:20 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:20 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:20 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:20 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:21 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:22 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:22 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:22 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:22 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:23 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:23 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:24 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:24 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:24 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:24 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:26 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:26 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:27 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:27 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:27 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:27 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:27 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:28 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:28 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:28 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:30 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:31 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:34 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:35 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:35 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:35 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:35 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:35 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:35 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:36 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:36 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:38 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:38 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:38 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:38 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:39 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:39 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:39 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:39 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:48 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:48 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:48 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:49 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:49 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:49 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:49 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:49 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:49 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:51 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:54 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:54 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:03:55 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:01 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:02 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:03 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:06 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:07 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:07 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:04:15 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:16 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:17 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:18 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:19 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:20 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:20 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:20 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:04:20 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:26:09 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:26:09 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:26:21 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:26:21 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:02 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:02 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:02 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:02 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:02 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:02 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:03 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:04 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:04 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:04 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:04 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:04 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:04 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:05 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:05 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:05 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:06 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:06 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:07 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:08 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:09 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:10 America/Denver] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/webscho3/public_html/framework/web/helpers/CHtml.php on line 2199
+[01-Oct-2015 03:28:12 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[01-Oct-2015 03:28:12 America/Denver] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/webscho3/public_html/protected/modules/user/components/UWjuidate.php on line 46
+[02-Oct-2015 21:21:53 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 299
+[02-Oct-2015 21:22:05 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 299
+[02-Oct-2015 21:22:16 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 299
+[02-Oct-2015 22:36:23 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 301
+[03-Oct-2015 03:24:49 America/Denver] PHP Fatal error:  Class 'Leaveapplication' not found in /home/webscho3/public_html/protected/modules/leave/controllers/LeaveapplicationController.php on line 111
+[04-Oct-2015 03:06:28 America/Denver] PHP Warning:  require_once(/home/webscho3/public_html/../framework/yii.php): failed to open stream: No such file or directory in /home/webscho3/public_html/index-test.php on line 14
+[04-Oct-2015 03:06:28 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home/webscho3/public_html/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webscho3/public_html/index-test.php on line 14
+[05-Oct-2015 12:04:58 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 616
+[06-Oct-2015 02:45:21 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/StudentController.php on line 616
+[06-Oct-2015 03:57:47 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SeatarrangementController.php on line 557
+[06-Oct-2015 04:02:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/seatarrangementpdf1.php on line 192
+[06-Oct-2015 04:02:35 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/webscho3/public_html/protected/modules/core/views/seatarrangement/seatarrangementpdf1.php on line 192
+[06-Oct-2015 04:51:53 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/core/controllers/SeatarrangementController.php on line 557
+[07-Oct-2015 03:02:38 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/webscho3/public_html/protected/modules/sms/views/smssettings/admin.php on line 197
+[07-Oct-2015 09:00:32 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 262
+[07-Oct-2015 09:00:38 America/Denver] PHP Fatal error:  Call to a member function delete() on a non-object in /home/webscho3/public_html/protected/modules/core/controllers/EmployeedetailsController.php on line 260
